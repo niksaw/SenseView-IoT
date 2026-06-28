@@ -56,7 +56,7 @@ The platform combines a custom-designed ESP32-C6 sensor node, modular embedded f
 ## Complete Device
 
 <p align="center">
-<img src="images/ModuleWithEnclosurePriorDeployment" width="650">
+<img src="images/ModuleWithEnclosurePriorDeployment.JPG" width="650">
 </p>
 
 ## Custom PCB
