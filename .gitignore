@@ -1,0 +1,20 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# KiCad
+*-bak
+*.kicad_prl
+*.autosave
+_autosave-*
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
