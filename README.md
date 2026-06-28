@@ -54,25 +54,25 @@ The platform combines a custom-designed ESP32-C6 sensor node, modular embedded f
 # Gallery
 
 ## Complete Device
-
+Battery-powered prototype assembled inside the custom enclosure prior to deployment.
 <p align="center">
 <img src="images/ModuleWithEnclosurePriorDeployment.jpeg" width="650">
 </p>
 
 ## Custom PCB
-
+PCB integrating the ESP32-C6, environmental sensors, battery management, and expansion headers.
 <p align="center">
 <img src="images/PCB 3d design.png" width="700">
 </p>
 
 ## Grafana Dashboard
-
+Real-time visualization of environmental data collected from the deployed sensor node
 <p align="center">
 <img src="images/Grafana dashboard.png" width="900">
 </p>
 
 ## Deployment
-
+Prototype deployed for indoor environmental monitoring
 <p align="center">
 <img src="images/ModuleInsertedInPlant.JPG" width="650">
 </p>
@@ -168,7 +168,7 @@ Some of the most significant engineering challenges encountered during this proj
 
 - Designing a reliable battery-powered power supply and custom PCB.
 - Developing a complete IoT backend from MQTT through cloud visualization.
-- Creating Zigbee2MQTT endpoints and integrating the custom device into the local IoT infrastructure.
+- Developing custom Zigbee2MQTT integration for seamless communication with the local IoT infrastructure.
 - Designing a modular architecture capable of supporting future communication technologies with minimal hardware changes.
 
 ---
