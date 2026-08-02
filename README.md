@@ -2,7 +2,14 @@
 
 > **An end-to-end IoT platform engineered from concept to deployment, integrating custom hardware, embedded firmware, and a scalable edge-to-cloud data pipeline.**
 
+<p align="center">
+  <img src="images/showcase/SenseView_Showcase.jpeg" width="1000">
+</p>
 ---
+![Platform](https://img.shields.io/badge/Platform-ESP32--C6-blue)
+![Communication](https://img.shields.io/badge/Communication-Zigbee-green)
+![Backend](https://img.shields.io/badge/Backend-MQTT%20%7C%20InfluxDB%20%7C%20Grafana-orange)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ## Overview
 
@@ -17,7 +24,7 @@ The platform combines a custom-designed ESP32-C6 sensor node, modular embedded f
 # System Architecture
 
 <p align="center">
-  <img src="images/SenseView_Architecture.png" width="1000">
+  <img src="images/architecture/SenseView_Architecture.png" width="1000">
 </p>
 
 ---
@@ -56,25 +63,25 @@ The platform combines a custom-designed ESP32-C6 sensor node, modular embedded f
 ## Complete Device
 Battery-powered prototype assembled inside the custom enclosure prior to deployment.
 <p align="center">
-<img src="images/ModuleWithEnclosurePriorDeployment.jpeg" width="650">
+<img src="images/showcase/ModuleWithEnclosurePriorDeployment.jpeg" width="650">
 </p>
 
 ## Custom PCB
 PCB integrating the ESP32-C6, environmental sensors, battery management, and expansion headers.
 <p align="center">
-<img src="images/PCB 3d design.png" width="700">
+<img src="images/hardware/PCB 3d design.png" width="700">
 </p>
 
 ## Grafana Dashboard
 Real-time visualization of environmental data collected from the deployed sensor node
 <p align="center">
-<img src="images/Grafana dashboard.png" width="900">
+<img src="images/dashboard/Grafana dashboard.png" width="900">
 </p>
 
 ## Deployment
 Prototype deployed for indoor environmental monitoring
 <p align="center">
-<img src="images/ModuleInsertedInPlant.JPG" width="650">
+<img src="images/showcase/ModuleInsertedInPlant.JPG" width="650">
 </p>
 
 ---
