@@ -5,8 +5,7 @@
 <p align="center">
   <img src="images/showcase/SenseView_Showcase.jpeg" width="1000">
 </p>
----
-!<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-ESP32--C6-blue">
   <img src="https://img.shields.io/badge/Communication-Zigbee-green">
   <img src="https://img.shields.io/badge/Backend-MQTT%20%7C%20InfluxDB%20%7C%20Grafana-orange">
