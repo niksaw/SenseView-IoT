@@ -158,9 +158,9 @@ SenseView-IoT/
     ├── dashboard/
     ├── hardware/
     └── showcase/
+```
 
 ---
-
 # Engineering Decisions
 
 | Decision | Reason |
