@@ -158,6 +158,7 @@ SenseView-IoT/
     ├── dashboard/
     ├── hardware/
     └── showcase/
+
 ---
 
 # Engineering Decisions
