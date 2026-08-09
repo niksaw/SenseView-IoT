@@ -141,23 +141,22 @@ Prototype deployed for indoor environmental monitoring
 # Repository Structure
 
 ```text
-SenseView-IoT/
-├── firmware/
-│   └── ESP32-C6 firmware
-│
-├── hardware/
-│   ├── BOM/
-│   ├── gerbers/
-│   └── kicad/
-│
-├── enclosure/
-│   └── SolidWorks enclosure
-│
-└── images/
-    ├── architecture/
-    ├── dashboard/
-    ├── hardware/
-    └── showcase/
+firmware/
+    ESP32-C6 firmware
+
+hardware/
+    bom/
+    gerbers/
+    kicad/
+
+enclosure/
+    SolidWorks enclosure
+
+images/
+    architecture/
+    dashboard/
+    hardware/
+    showcase/
 ```
 
 ---
